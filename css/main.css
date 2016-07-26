@@ -60,18 +60,9 @@ width: 100%;
 }
 
 #logo {
-  position: absolute;
-  font-size: 30px;
-  font-family: 'Pacifico', cursive;
-  top: -22px;
-  left: 30px;
-  color: #555555;
-  cursor: default;
-
-
-  text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
-  text-rendering: optimizeLegibility !important;
-  -webkit-font-smoothing: antialiased !important;
+position: absolute;
+top: 18px;
+left: 30px;
 }
 
 #tagline {
