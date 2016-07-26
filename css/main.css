@@ -10,7 +10,10 @@ body {
 }
 
 .inside {
-  width: 1200px;
+  width: 100%;
+  min-width: 1000px;
+ max-width: 1200px;
+
   margin: 0 auto;
 }
 
@@ -23,8 +26,10 @@ body {
 }
 
 #wrapper {
-  width: 1200px;
-  margin: 0 auto;
+  width: 100%;
+  min-width: 1000px;
+ max-width: 1200px;
+   margin: 0 auto;
 }
 
 #nav {
@@ -302,20 +307,27 @@ font-size: 12px;
 #pricing {
   margin-top: 450px;
   height: 550px;
+  position: relative;
+  width: 1200px;
+
+
 }
 
 #pricing_tables {
-  position: relative;
-left: 30px;
+  margin: 0 auto;
+  text-align: center;
 
 }
 
 
 .pricing_table {
-  width: 278px;
+  width: 245px;
   height: 420px;
-  float: left;
-  margin-right: 1%;
+  display:inline-block;
+  text-align: left;
+
+  margin-right: 15px;
+
 }
 
 .pricing_header {
@@ -345,7 +357,7 @@ left: 30px;
 
 }
 .pricing_table li {
-  font-size: 15px;
+  font-size: 13px;
   margin-bottom: 15px;
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
@@ -392,7 +404,7 @@ li {
 }
 
 .pricing_footer button {
-  width: 278px;
+  width: 245px;
   height: 50px;
   position: absolute;
   bottom: 0px;
