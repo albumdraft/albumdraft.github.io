@@ -19,8 +19,8 @@ body {
 
 .extended_bk {
   position: absolute;
-  float: left;
-  left: 0;
+display: inline-block;
+ left: 0;
   width: 100%;
   margin: 0 auto;
 }
@@ -38,7 +38,7 @@ body {
   position: fixed;
   left: 0px;
   top: 0px;
-width: 100vw;
+width: 100%;
   height: 70px;
 
   background-color: white;
