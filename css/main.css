@@ -5,7 +5,7 @@ p, h1, h2, h3, h4, h5, a, button {
 }
 
 body {
-  width: 100vw;
+  width: 100%;
   min-height:100%;
 }
 
@@ -21,7 +21,7 @@ body {
   position: absolute;
   float: left;
   left: 0;
-  width: 100vw;
+  width: 100%;
   margin: 0 auto;
 }
 
