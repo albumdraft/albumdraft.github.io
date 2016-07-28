@@ -1,0 +1,64 @@
+CACHE MANIFEST
+
+#version 1.0 7-28-2016
+
+CACHE:
+
+#images
+http://home.albumdraft.com/assets/images/brazil-flag.png
+http://home.albumdraft.com/assets/images/designaglow.png
+http://home.albumdraft.com/assets/images/fearless.png
+http://home.albumdraft.com/assets/images/fstoppers.png
+http://home.albumdraft.com/assets/images/germany-flag.png
+http://home.albumdraft.com/assets/images/hero.jpg
+http://home.albumdraft.com/assets/images/improvephotography.png
+http://home.albumdraft.com/assets/images/ispwp.png
+http://home.albumdraft.com/assets/images/italy-flag.png
+http://home.albumdraft.com/assets/images/main_logo.png
+http://home.albumdraft.com/assets/images/spain-flag.png
+http://home.albumdraft.com/assets/images/testimonials/adrian_jones.jpeg
+http://home.albumdraft.com/assets/images/testimonials/ben_higgins.jpg
+http://home.albumdraft.com/assets/images/testimonials/cassi_claire.jpg
+http://home.albumdraft.com/assets/images/testimonials/elizabeth_cryan.jpg
+http://home.albumdraft.com/assets/images/testimonials/hunter_harrison.jpg
+http://home.albumdraft.com/assets/images/testimonials/james_christianson.jpg
+http://home.albumdraft.com/assets/images/testimonials/ross_harvey.jpg
+http://home.albumdraft.com/assets/images/testimonials/samantha_ong.jpg
+http://home.albumdraft.com/assets/images/testimonials/steve_hargreaves.jpg
+http://home.albumdraft.com/assets/images/testimonials/trevor_dayley.jpg
+http://home.albumdraft.com/assets/images/uk-flag.png
+http://home.albumdraft.com/assets/images/wps.png
+http://home.albumdraft.com/assets/images/ypwp.png
+
+#internal HTML documents
+http://home.albumdraft.com/
+
+#style sheets
+http://home.albumdraft.com/css/bootstrap.min.css
+http://home.albumdraft.com/css/main.min.css
+http://home.albumdraft.com/css/pure_buttons.min.css
+http://home.albumdraft.com/css/reset.min.css
+http://use.fontawesome.com/releases/v4.6.3/css/font-awesome-css.min.css
+https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,greek,latin-ext,greek-ext,cyrillic,vietnamese,cyrillic-ext
+
+#style sheet images
+"../assets/images/check.png"
+"../assets/images/divider.png"
+"../assets/images/international-background.jpg"
+"../assets/images/no.png"
+"https://static.xx.fbcdn.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif"
+"https://static.xx.fbcdn.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png"
+"https://static.xx.fbcdn.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif"
+"https://static.xx.fbcdn.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif"
+"https://static.xx.fbcdn.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png"
+"https://static.xx.fbcdn.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png"
+
+#javascript files
+http://in.getclicky.com/in.php?site_id=100714308&res=1280x800&lang=en&type=pageview&href=%2F&title=Albumdraft%20-%20Online%20Album%20Proofing%20for%20Wedding%20Photographers&jsuid=219756092&upset&mime=js&x=0.9885337434098846
+http://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=714222065340465
+http://fast.wistia.net/assets/external/E-v1.js
+http://static.getclicky.com/js
+http://home.albumdraft.com/js/jquery-3.1.0.min.js
+
+NETWORK:
+*
