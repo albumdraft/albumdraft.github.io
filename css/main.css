@@ -492,7 +492,7 @@ li {
 }
 
 #footer_content {
-  margin-left: 60px;
+  margin: 0 auto;
   width: 1200px;
   min-width: 1000px;
 }
@@ -502,7 +502,7 @@ li {
 }
 
 #footer_list i {
-  margin-right: 10px;
+  margin-right: -20px;
 }
 
 .footer_bar {
