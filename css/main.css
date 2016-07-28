@@ -485,7 +485,16 @@ li {
 
 #footer {
   height: 400px;
+
   background-color: #fcfcfc;
+
+
+}
+
+#footer_content {
+  margin-left: 60px;
+  width: 1200px;
+  min-width: 1000px;
 }
 
 #footer_list li {
